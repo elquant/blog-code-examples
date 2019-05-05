@@ -103,6 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Intellij files and folders
+# IDE files and folders
 .idea
 *.iml
+
+# OS files and folders
+.DS_Store
